@@ -1,6 +1,6 @@
 ---
 title:  "Blog"
-layout: archive
+layout: single
 permalink: /Blog/
 author_profile: true
 ---
