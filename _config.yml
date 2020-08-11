@@ -32,9 +32,10 @@ github_username:  rahul1990gupta
 repository: rahul1990gupta/rahul1990gupta.github.io
 
 # Build settings
-remote_theme: mmistakes / minimal-mistakes 
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
