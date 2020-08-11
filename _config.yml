@@ -32,7 +32,7 @@ github_username:  rahul1990gupta
 repository: rahul1990gupta/rahul1990gupta.github.io
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes / minimal-mistakes 
 plugins:
   - jekyll-feed
 
